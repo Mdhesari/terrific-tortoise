@@ -1,5 +1,5 @@
 ---
-subtitle: This is a short page about me and my work
+title: Read about me here
 img_path: images/about.jpg
 menus:
   main:
