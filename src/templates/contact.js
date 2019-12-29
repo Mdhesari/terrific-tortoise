@@ -25,7 +25,7 @@ export default class Contact extends React.Component {
                     <div className="post-content">
                       {htmlToReact(_.get(this.props, 'pageContext.html'))}
                       <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
-                        className="contact-form" data-netlify-recaptcha="true">
+                        className="contact-form">
                         <p className="screen-reader-text">
                           <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                         </p>
