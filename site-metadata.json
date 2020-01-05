@@ -4,7 +4,7 @@
     "header": {
         "title": "#HRAD_REVENGE",
         "tagline": "",
-        "logo_img": "images/logo.png",
+        "logo_img": "",
         "bg_img": "images/header-bg.jpg",
         "has_nav": true,
         "has_social": false
@@ -14,7 +14,7 @@
         "links": [
             {
                 "text": "Github Repository.",
-                "url": "https://www.github.com/Mdhesari/",
+                "url": "https://github.com/Mdhesari/ghasemSoleymani",
                 "new_window": true
             }
         ]
