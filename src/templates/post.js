@@ -21,7 +21,7 @@ export default class Post extends React.Component {
                 <main id="main" className="site-main inner">
                   <article className="post post-full">
                     <header className="post-header">
-                      <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
+                      <h1 className="post-title title-emphasize">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
                       <div className="post-meta">
                         <time className="published"
                           dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%A, %B %e, %Y')}</time>

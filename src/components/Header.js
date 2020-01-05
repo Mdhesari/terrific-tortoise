@@ -18,6 +18,7 @@ export default class Header extends React.Component {
                 <div className="site-header-inside">
                   <div className="site-header-vertical">
                     <Navigation {...this.props} />
+                    <Branding {...this.props} />
                   </div>
                 </div>
               </div>
