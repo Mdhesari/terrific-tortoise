@@ -1,31 +1,16 @@
 ---
-title: What Is Photography and What It Means To Me
-subtitle: A intresting tale about Photography and me
-date: '2018-01-15'
+title: Iran’s Assyrian community condoles over Gen. Soleimani’s martyrdom
+subtitle: hard revenge is coming...
+date: '2020-01-5'
 thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+content_img_path: images/6.jpg
 excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+  TEHRAN – The Assyrian community in Iran released a message on Saturday to express condolences over the martyrdom of the commander of the IRGC Quds Force Lieutenant General Qassem Soleimani, ISNA reported.
 template: post
 ---
 
-**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
+“The martyrdom of the honored commander Qassem Soleimani was world-shaking. Iran mourns and vows revenge. Iran promises to avenge. The shooting of the most prominent military commander of Iran will undoubtedly have fundamental repercussions in the region.
 
-Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+The martyrdom of the architect of power has united Iran, as world must believe. Iran is on the move. A wave of revenge is coming. This is how the world thinks,” part of the message issued by the board of directors of the Assyrian community reads.
 
-> When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit. 
-
-Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Tincidunt lobortis feugiat vivamus at augue eget. Nulla at volutpat diam ut venenatis. Amet est placerat in egestas erat. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque. Sed tempus urna et pharetra pharetra. Lacus viverra vitae congue eu consequat ac felis donec. Sapien eget mi proin sed libero enim sed.
-
-## Creative Photography
-
-Faucibus et molestie ac feugiat. Auctor augue mauris augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet sit amet. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Euismod quis viverra nibh cras pulvinar mattis nunc. Nibh cras pulvinar mattis nunc sed. Pellentesque massa placerat duis ultricies. Mollis aliquam ut porttitor leo a diam. Donec et odio pellentesque diam. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.
-
-Odio pellentesque diam volutpat commodo. Purus in mollis nunc sed id semper. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Viverra nibh cras pulvinar mattis nunc sed blandit. Massa tincidunt dui ut ornare lectus. Turpis tincidunt id aliquet risus. Ut aliquam purus sit amet luctus venenatis lectus. Consectetur adipiscing elit pellentesque habitant. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Quis vel eros donec ac. Ut pharetra sit amet aliquam id. Lobortis elementum nibh tellus molestie nunc non blandit. Dignissim cras tincidunt lobortis feugiat vivamus at. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. Mattis nunc sed blandit libero volutpat sed. Dignissim diam quis enim lobortis scelerisque fermentum.
-
-Gravida dictum fusce ut placerat orci nulla pellentesque. Elementum nibh tellus molestie nunc non. Tortor at risus viverra adipiscing at in. Eget nulla facilisi etiam dignissim diam quis. Feugiat in fermentum posuere urna. Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Quis imperdiet massa tincidunt nunc. Orci phasellus egestas tellus rutrum tellus pellentesque. Sagittis vitae et leo duis ut. Ornare quam viverra orci sagittis. Mi sit amet mauris commodo. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
+“The Assyrian community, along with all our compatriots, is mourning the loss of one of the most powerful commanders of the Islamic Revolution Guards Corps. Together with all freedom-seekers and concerned nations, we condemn this painful assassination as today's civilized world does not deserve it. So, we express the sincerest condolences to the Leader of the Islamic Revolution, officials and the Iranian vigilant nation.” 
