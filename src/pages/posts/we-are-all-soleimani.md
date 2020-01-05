@@ -8,6 +8,8 @@ excerpt: >-
 template: post
 ---
 
+![General Soleimani](/images/about.jpg)
+
 I always took pride in writing about this revolutionary warrior of Islam, who singlehandedly took on the ‘gangsters’ of the world from Washington to Tel Aviv, and valiantly led the fight against the ISIS in Syria and Iraq. But I never imagined writing an obituary for him. Life can be a tough taskmaster.
 
 It never struck me that he could leave us like this even though he literally lived on the razor’s edge. He was on the ‘most-wanted-list’ of all rogue regimes and escaped assassination bids many times. His unflinching faith and extraordinary courage always helped him prevail over his enemies, who failed in all their devious attempts to track him. As the Supreme Leader famously remarked, he was a ‘living martyr’.
