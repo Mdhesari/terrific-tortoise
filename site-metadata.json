@@ -6,7 +6,7 @@
         "tagline": "Know more about him here",
         "logo_img": "images/logo.png",
         "bg_img": "images/header-bg.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "has_social": false
     },
     "footer": {
