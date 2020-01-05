@@ -6,14 +6,14 @@
         "tagline": "Know more about him here",
         "logo_img": "images/logo.png",
         "bg_img": "images/header-bg.jpg",
-        "has_nav": true,
+        "has_nav": false,
         "has_social": false
     },
     "footer": {
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Wrong information? let me know on repository.",
+                "text": "Do know more about him? click here to add more info",
                 "url": "https://www.github.com/Mdhesari/",
                 "new_window": true
             }
