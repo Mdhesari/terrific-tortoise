@@ -112,7 +112,7 @@
 
 .menu-item:first-child,
 .menu-item:last-child {
-  border-top: none;
+  border: none !important;
 }
 
 .menu-item a:hover,

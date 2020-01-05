@@ -1,20 +1,20 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "General Soleimani",
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "General Soleimani",
+        "tagline": "Know more about him here",
         "logo_img": "images/logo.png",
         "bg_img": "images/header-bg.jpg",
         "has_nav": true,
-        "has_social": true
+        "has_social": false
     },
     "footer": {
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "text": "Wrong information? let me know on repository.",
+                "url": "https://www.github.com/Mdhesari/",
                 "new_window": true
             }
         ]
