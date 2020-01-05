@@ -2,8 +2,8 @@
 title: What Is Photography and What It Means To Me
 subtitle: A intresting tale about Photography and me
 date: '2018-01-15'
-thumb_img_path: images/8.jpg
-content_img_path: images/8.jpg
+thumb_img_path: images/7.jpg
+content_img_path: images/7.jpg
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
