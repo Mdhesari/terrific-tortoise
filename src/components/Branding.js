@@ -8,9 +8,9 @@ export default class Branding extends React.Component {
         return (
             <div className="site-branding">
               {(_.get(this.props, 'pageContext.frontmatter.template') === 'home') ? 
-              <h1 className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></h1>
+              <h1 className="site-title">{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</h1>
                : 
-              <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
+              <p className="site-title">{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</p>
               }
               {_.get(this.props, 'pageContext.site.siteMetadata.header.tagline') && 
               <p className="site-description">{_.get(this.props, 'pageContext.site.siteMetadata.header.tagline')}</p>
