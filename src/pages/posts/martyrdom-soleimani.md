@@ -4,6 +4,7 @@ subtitle: hard revenge is coming...
 date: "2020-01-5"
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
+hide_header: false
 excerpt: >-
   TEHRAN – The Assyrian community in Iran released a message on Saturday to express condolences over the martyrdom of the commander of the IRGC Quds Force Lieutenant General Qassem Soleimani, ISNA reported.
 template: post
