@@ -151,3 +151,12 @@
     font-size: 14px;
   }
 }
+
+.title-emphasize::after {
+  content: "";
+  display: block;
+  width: 40%;
+  height: 4px;
+  background: #dfdfdf;
+  margin-top: 8px;
+}

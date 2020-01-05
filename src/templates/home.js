@@ -15,9 +15,9 @@ export default class Home extends React.Component {
               <Header {...this.props} site={this.props.pageContext.site} page={this.props.pageContext} img_path={_.get(this.props, 'pageContext.site.siteMetadata.header.bg_img')} />
               <div id="content" className="site-content">
                 <main id="main" className="site-main inner">
-                  <h3 className="title-emphasize">
-                    Last News
-                  </h3>
+                  <h1 className="title-emphasize">
+                    Latest News
+                  </h1>
                   <div className="post-feed">
                     {_.map(display_posts, (post, post_idx) => (
                     <article key={post_idx} className="post">
