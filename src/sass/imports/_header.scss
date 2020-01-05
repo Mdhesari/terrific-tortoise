@@ -110,9 +110,9 @@
   }
 }
 
-.menu-item:first-child,
-.menu-item:last-child {
-  border: none !important;
+.menu-item:first-of-type,
+.menu-item:last-of-type {
+  border-top: none !important;
 }
 
 .menu-item a:hover,
