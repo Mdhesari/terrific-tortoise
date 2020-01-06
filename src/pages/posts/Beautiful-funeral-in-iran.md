@@ -9,7 +9,8 @@ excerpt: >-
 template: post
 ---
 
-vimeo: https://vimeo.com/5299404 vimeo: 5299404
+ <!-- #1: Embed through web URL -->
+`youtube:https://www.youtube.com/watch?v=nG5TXyyaeDs`
 
 Supreme Leader leads a prayer for the body of Martyr General Soleimani
 
