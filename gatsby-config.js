@@ -20,7 +20,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-stackbit-static-sass`,
       options: {
+        inputFile: `${__dirname}/src/sass/main.scss`,
+        outputFile: `${__dirname}/public/assets/css/main.css`
+      }
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
         plugins: [
+          `gatsby-remark-component`,
           {
             resolve: `gatsby-remark-embed-video`,
             options: {
@@ -37,15 +45,7 @@ module.exports = {
               maxWidth: 590
             }
           }
-        ],
-        inputFile: `${__dirname}/src/sass/main.scss`,
-        outputFile: `${__dirname}/public/assets/css/main.css`
-      }
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [`gatsby-remark-component`]
+        ]
       }
     },
     {
