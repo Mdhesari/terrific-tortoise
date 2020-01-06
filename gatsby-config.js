@@ -32,10 +32,11 @@ module.exports = {
             }
           },
           {
-            resolve: `gatsby-remark-images`,          
+            resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
-            },
+              maxWidth: 590
+            }
+          }
         ],
         inputFile: `${__dirname}/src/sass/main.scss`,
         outputFile: `${__dirname}/public/assets/css/main.css`
