@@ -2,7 +2,7 @@
     "title": "General Soleimani",
     "palette": "yellow",
     "header": {
-        "title": "#HRAD_REVENGE",
+        "title": "#HARD_REVENGE",
         "tagline": "",
         "logo_img": "",
         "bg_img": "images/header-bg.jpg",
@@ -13,7 +13,7 @@
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Read More About Him.",
+                "text": "Read More About Sardar.",
                 "url": "https://en.wikipedia.org/wiki/Qasem_Soleimani",
                 "new_window": true
             }
