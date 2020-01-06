@@ -15,6 +15,7 @@
     "fs-extra": "^7.0.1",
     "gatsby": "^2.18.17",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sharp": "^2.3.10",
     "gatsby-remark-embed-video": "^2.0.1",
     "gatsby-remark-images": "^3.1.39",
     "gatsby-remark-responsive-iframe": "^2.2.30",
