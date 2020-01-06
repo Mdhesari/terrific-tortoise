@@ -10,7 +10,7 @@ template: post
 ---
 
  <!-- #1: Embed through web URL -->
-`youtube:https://www.youtube.com/watch?v=nG5TXyyaeDs`
+<!-- `youtube:nG5TXyyaeDs` -->
 
 Supreme Leader leads a prayer for the body of Martyr General Soleimani
 
