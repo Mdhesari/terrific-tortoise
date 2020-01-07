@@ -5,6 +5,17 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Ghasem Soleimani`,
+        short_name: `Soleimani`,
+        start_url: `/`,
+        background_color: `#F7F8F9`,
+        theme_color: `#E23636`,
+        icon: `static/images/avatar.png`
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,

@@ -1,7 +1,7 @@
 ---
 title: Iran’s Assyrian community condoles over Gen. Soleimani’s martyrdom
 subtitle: hard revenge is coming...
-date: "2020-01-5"
+date: "2020-01-05"
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: >-

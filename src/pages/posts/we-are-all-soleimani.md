@@ -1,6 +1,6 @@
 ---
 title: We are all Soleimani today
-date: "2020-01-5"
+date: "2020-01-05"
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
 excerpt: >-
