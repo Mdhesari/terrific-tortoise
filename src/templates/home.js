@@ -6,6 +6,7 @@ import { Layout } from "../components/index";
 import Header from "../components/Header";
 import { getPages, Link, safePrefix } from "../utils";
 import Footer from "../components/Footer";
+import Seo from "../components/Seo";
 
 export default class Home extends React.Component {
   render() {
@@ -16,6 +17,7 @@ export default class Home extends React.Component {
     );
     return (
       <Layout {...this.props}>
+        <Seo />
         <Header
           {...this.props}
           site={this.props.pageContext.site}
