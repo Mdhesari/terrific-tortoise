@@ -9,10 +9,10 @@ module.exports = {
       options: {
         name: `Ghasem Soleimani`,
         short_name: `Soleimani`,
+        description: `General Soleimani, Iranian major general in the Islamic Revolutionary Guard Corps (IRGC)`,
         start_url: `/`,
         background_color: `#F7F8F9`,
-        theme_color: `#E23636`,
-        icon: `static/images/avatar.png`
+        theme_color: `#E23636`
       }
     },
     {
@@ -70,6 +70,15 @@ module.exports = {
         pageContextProperty: `menus`,
         menus: require("./src/data/menus.json")
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-robots-txt`,
+      options: {
+        host: `https://soleymani.netlify.com/`,
+        sitemap: `https://soleymani.netlify.com/sitemap.xml`,
+        policy: [{ userAgent: `*`, allow: `/` }]
+      }
+    },
+    `gatsby-plugin-sitemap`
   ]
 };
