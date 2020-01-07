@@ -1,5 +1,5 @@
 ---
-title: About General Soleimani
+title: About
 subtitle: This is what you should know about him
 img_path: images/about.jpg
 menus:

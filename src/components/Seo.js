@@ -4,12 +4,17 @@ import _ from "lodash";
 
 export default class Seo extends React.Component {
   render() {
-    const data = _.get(this.props, "site.siteMetadata.header.bg_img");
+    const data = _.get(this.props, "site.siteMetadata");
 
-    const title = _.get(this.props, "title") || "Official Website";
+    const title = _.get(this.props, "title") || data.title;
 
     console.log(data);
 
-    return <Helmet htmlAttributes={{ lang: "en" }} title={`${title}`}></Helmet>;
+    return (
+      <Helmet htmlAttributes={{ lang: "en" }} title={`${title}`}>
+        <meta name="description" content={data.description} />
+        <meta name="keywords" content={_.join(data.keywords, ", ")} />
+      </Helmet>
+    );
   }
 }
