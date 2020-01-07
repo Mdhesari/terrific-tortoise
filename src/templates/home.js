@@ -17,7 +17,7 @@ export default class Home extends React.Component {
     );
     return (
       <Layout {...this.props}>
-        <Seo title="Ghasem Soleimani" />
+        <Seo {...this.props} title="Ghasem Soleimani" />
         <Header
           {...this.props}
           site={this.props.pageContext.site}
