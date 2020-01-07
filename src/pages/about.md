@@ -14,3 +14,5 @@ template: page
 Soleimani began his military career at the start of the Iran–Iraq War during the 1980s, eventually commanding the 41st Division. He was later involved in extraterritorial operations, providing military assistance to Hezbollah in Lebanon. In 2012, Soleimani helped bolster the Bashar al-Assad government, a key Iranian ally, during its operations in the Syrian Civil War and helped to plan Russian military intervention in Syria[19]. Soleimani also was a commander of the combined Iraqi government and Shia militia forces that advanced against ISIL in 2014–2015. Soleimani was one of the first to support Kurdish forces resisting ISIL, providing them with arms.[20][21]
 
 Soleimani was murdered in a targeted U.S. drone strike on 3 January 2020 in Baghdad, Iraq. Abu Mahdi al-Muhandis, the deputy head of the Iraqi Popular Mobilization Forces (PMF), was also killed.[22] Soleimani was succeeded as commander of the Quds Force by Esmail Ghaani.[23]
+
+![Ghasem Soleimani](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Qasem_Soleimani_with_Zolfaghar_Order.jpg/1200px-Qasem_Soleimani_with_Zolfaghar_Order.jpg)

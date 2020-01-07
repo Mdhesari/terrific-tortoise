@@ -4,8 +4,10 @@ import _ from "lodash";
 import { render } from "node-sass";
 
 class Seo extends React.Component {
-  render({ title }) {
+  render() {
     const data = _.get(this.props, "site.siteMetadata");
+
+    const title = _.get(this.props, "title");
 
     console.log(data);
 
