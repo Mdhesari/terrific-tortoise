@@ -1,9 +1,8 @@
 ---
-title: Iran’s Supreme Leader Calls Missile Strike a ‘Slap in Face’ to U.S.
-subtitle: hard revenge is coming...
+title: Iran Fiers Over a Dozen Missiles at U.S Forces in Iraq
 date: "2020-01-08"
 thumb_img_path: https://static01.nyt.com/images/2020/01/08/world/08iran-briefing-celebrations/merlin_166821168_e614f981-eeeb-42d0-b443-dd0b92cdad53-superJumbo.jpg?quality=90&auto=webp
-content_img_path: https://s.yimg.com/uu/api/res/1.2/o7fGJrBlpB1F8OUnHujhqg--~B/aD01MTI7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/7bc8b05014f0f7586d3bd313a49f3ccffe73ea23.jpg
+content_img_path: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/03/07/iran-soleimani.jpg?w968h681
 excerpt: >-
   Ayatollah Ali Khamenei addressed his nation hours after Iran’s foreign minister said the country had ‘concluded’ its attacks on American forces. Also on Wednesday, a passenger jet crashed in the Iranian capital, killing everyone on board.
 template: post
